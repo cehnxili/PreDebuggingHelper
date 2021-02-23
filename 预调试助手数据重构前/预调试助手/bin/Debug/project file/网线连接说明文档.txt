@@ -1,0 +1,7 @@
+图中控制器为：EC
+J3(EtherNET)-电脑
+J1(Primary  Port)-从站1的IN口
+从站1OUT口-从站2的IN口
+...
+支持环网的控制器
+可由最后一台驱动器的OUT-EC的J2(Secondary Port)

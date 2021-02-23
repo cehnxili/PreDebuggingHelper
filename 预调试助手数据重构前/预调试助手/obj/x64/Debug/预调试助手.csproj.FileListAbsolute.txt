@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\x64\Debug\Interop.MSScriptControl.dll
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\x64\Debug\预调试助手.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\x64\Debug\预调试助手.winMain.resources
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\x64\Debug\预调试助手.Form_Guide.resources
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\x64\Debug\预调试助手.Properties.Resources.resources
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\x64\Debug\预调试助手.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\x64\Debug\预调试助手.csproj.CoreCompileInputs.cache

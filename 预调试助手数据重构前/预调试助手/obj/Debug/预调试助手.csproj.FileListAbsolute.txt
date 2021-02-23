@@ -1,0 +1,156 @@
+C:\Users\46432\source\repos\预调试助手\预调试助手\bin\Debug\预调试助手.exe.config
+C:\Users\46432\source\repos\预调试助手\预调试助手\bin\Debug\预调试助手.exe
+C:\Users\46432\source\repos\预调试助手\预调试助手\bin\Debug\预调试助手.pdb
+C:\Users\46432\source\repos\预调试助手\预调试助手\bin\Debug\ACS.SPiiPlusNET.dll
+C:\Users\46432\source\repos\预调试助手\预调试助手\obj\Debug\预调试助手.csprojAssemblyReference.cache
+C:\Users\46432\source\repos\预调试助手\预调试助手\obj\Debug\预调试助手.Properties.Resources.resources
+C:\Users\46432\source\repos\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.GenerateResource.cache
+C:\Users\46432\source\repos\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.CoreCompileInputs.cache
+C:\Users\46432\source\repos\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.CopyComplete
+C:\Users\46432\source\repos\预调试助手\预调试助手\obj\Debug\预调试助手.exe
+C:\Users\46432\source\repos\预调试助手\预调试助手\obj\Debug\预调试助手.pdb
+C:\Users\46432\source\repos\预调试助手\预调试助手\obj\Debug\预调试助手.winMain.resources
+C:\Users\46432\source\repos\预调试助手\预调试助手\bin\Debug\HZH_Controls.dll
+C:\Users\46432\source\repos\预调试助手\预调试助手\obj\Debug\预调试助手.Form2.resources
+G:\预调试助手\预调试助手\bin\Debug\预调试助手.exe.config
+G:\预调试助手\预调试助手\bin\Debug\预调试助手.exe
+G:\预调试助手\预调试助手\bin\Debug\预调试助手.pdb
+G:\预调试助手\预调试助手\bin\Debug\HZH_Controls.dll
+G:\预调试助手\预调试助手\obj\Debug\预调试助手.csprojAssemblyReference.cache
+G:\预调试助手\预调试助手\obj\Debug\预调试助手.winMain.resources
+G:\预调试助手\预调试助手\obj\Debug\预调试助手.Properties.Resources.resources
+G:\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.GenerateResource.cache
+G:\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.CoreCompileInputs.cache
+G:\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.CopyComplete
+G:\预调试助手\预调试助手\obj\Debug\预调试助手.exe
+G:\预调试助手\预调试助手\obj\Debug\预调试助手.pdb
+G:\预调试助手\预调试助手\obj\Debug\预调试助手.Form_Guide.resources
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Debug\预调试助手.exe
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Debug\ACS.SPiiPlusNET.dll
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Debug\HZH_Controls.dll
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Debug\Newtonsoft.Json.dll
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Debug\MaterialSkin.dll
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.ResolveComReference.cache
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.winMain.resources
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.Form_Guide.resources
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.Properties.Resources.resources
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.GenerateResource.cache
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.CoreCompileInputs.cache
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Debug\预调试助手.exe.config
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Debug\O2S.Components.PDF4NET.Win.dll
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Debug\MaterialSkin.pdb
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Debug\Newtonsoft.Json.xml
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Debug\O2S.Components.PDF4NET.Win.xml
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.CopyComplete
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.exe
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.pdb
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Debug\预调试助手.pdb
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\bin\Debug\预调试助手.exe.config
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\bin\Debug\预调试助手.exe
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\bin\Debug\预调试助手.pdb
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\bin\Debug\HZH_Controls.dll
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\bin\Debug\O2S.Components.PDF4NET.Win.dll
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\bin\Debug\O2S.Components.PDF4NET.Win.xml
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.winMain.resources
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.Form_Guide.resources
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.Properties.Resources.resources
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.CopyComplete
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.exe
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.pdb
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.textform.resources
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.textform.resources
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\bin\Debug\OxyPlot.dll
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\bin\Debug\MaterialSkin.pdb
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\bin\Debug\OxyPlot.xml
+C:\Users\Administrator\Desktop\预调试助手\预调试助手\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Debug\预调试助手.ClockControl.resources
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Debug\预调试助手.exe.config
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Debug\预调试助手.exe
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Debug\预调试助手.pdb
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Debug\HZH_Controls.dll
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Debug\O2S.Components.PDF4NET.Win.dll
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Debug\OxyPlot.dll
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Debug\MaterialSkin.pdb
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Debug\O2S.Components.PDF4NET.Win.xml
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Debug\OxyPlot.xml
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Debug\预调试助手.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Debug\预调试助手.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Debug\预调试助手.ClockControl.resources
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Debug\预调试助手.winMain.resources
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Debug\预调试助手.Form_Guide.resources
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Debug\预调试助手.Properties.Resources.resources
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Debug\预调试助手.textform.resources
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Debug\预调试助手.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Debug\预调试助手.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Debug\预调试助手.csproj.CopyComplete
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Debug\预调试助手.exe
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Debug\预调试助手.pdb
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Debug\OxyPlot.xml
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\bin\Debug\预调试助手.exe.config
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\bin\Debug\预调试助手.exe
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\bin\Debug\预调试助手.pdb
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\bin\Debug\ACS.SPiiPlusNET.dll
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\bin\Debug\HZH_Controls.dll
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\bin\Debug\MaterialSkin.dll
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\bin\Debug\Newtonsoft.Json.dll
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\bin\Debug\O2S.Components.PDF4NET.Win.dll
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\bin\Debug\MaterialSkin.pdb
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\bin\Debug\Newtonsoft.Json.xml
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\bin\Debug\O2S.Components.PDF4NET.Win.xml
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\bin\Debug\OxyPlot.xml
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\obj\Debug\预调试助手.csprojAssemblyReference.cache
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.ResolveComReference.cache
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\obj\Debug\预调试助手.ClockControl.resources
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\obj\Debug\预调试助手.winMain.resources
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\obj\Debug\预调试助手.Form_Guide.resources
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\obj\Debug\预调试助手.Properties.Resources.resources
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\obj\Debug\预调试助手.textform.resources
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.GenerateResource.cache
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.CoreCompileInputs.cache
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\obj\Debug\预调试助手.csproj.CopyComplete
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\obj\Debug\预调试助手.exe
+C:\Users\46432\Documents\XiaoMiNet\Upupoo\Docker\config\文件夹\软件成品\预调试助手\预调试助手\obj\Debug\预调试助手.pdb
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\bin\Debug\预调试助手.exe.config
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\bin\Debug\预调试助手.exe
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\bin\Debug\预调试助手.pdb
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\bin\Debug\ACS.SPiiPlusNET.dll
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\bin\Debug\HZH_Controls.dll
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\bin\Debug\MaterialSkin.dll
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\bin\Debug\Newtonsoft.Json.dll
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\bin\Debug\O2S.Components.PDF4NET.Win.dll
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\bin\Debug\MaterialSkin.pdb
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\bin\Debug\Newtonsoft.Json.xml
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\bin\Debug\O2S.Components.PDF4NET.Win.xml
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\bin\Debug\OxyPlot.xml
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\bin\Debug\OxyPlot.WindowsForms.xml
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\obj\Debug\预调试助手.csprojAssemblyReference.cache
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\obj\Debug\Interop.MSScriptControl.dll
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\obj\Debug\预调试助手.csproj.ResolveComReference.cache
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\obj\Debug\预调试助手.ClockControl.resources
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\obj\Debug\预调试助手.winMain.resources
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\obj\Debug\预调试助手.Form_Guide.resources
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\obj\Debug\预调试助手.Properties.Resources.resources
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\obj\Debug\预调试助手.textform.resources
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\obj\Debug\预调试助手.csproj.GenerateResource.cache
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\obj\Debug\预调试助手.csproj.CoreCompileInputs.cache
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\obj\Debug\预调试助手.csproj.CopyComplete
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\obj\Debug\预调试助手.exe
+D:\东途材料\我的软件\预调试助手数据重构前\预调试助手\obj\Debug\预调试助手.pdb

@@ -1,0 +1,49 @@
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Release\预调试助手.exe.config
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Release\预调试助手.exe
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Release\预调试助手.pdb
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Release\ACS.SPiiPlusNET.dll
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Release\HZH_Controls.dll
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Release\MaterialSkin.dll
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Release\Newtonsoft.Json.dll
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Release\O2S.Components.PDF4NET.Win.dll
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Release\MaterialSkin.pdb
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Release\Newtonsoft.Json.xml
+C:\Users\46432\Desktop\预调试助手\预调试助手\bin\Release\O2S.Components.PDF4NET.Win.xml
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Release\Interop.MSScriptControl.dll
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Release\预调试助手.csproj.ResolveComReference.cache
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Release\预调试助手.winMain.resources
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Release\预调试助手.Form_Guide.resources
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Release\预调试助手.Properties.Resources.resources
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Release\预调试助手.csproj.GenerateResource.cache
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Release\预调试助手.csproj.CoreCompileInputs.cache
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Release\预调试助手.csproj.CopyComplete
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Release\预调试助手.exe
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Release\预调试助手.pdb
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Release\预调试助手.textform.resources
+C:\Users\46432\Desktop\预调试助手\预调试助手\obj\Release\预调试助手.ClockControl.resources
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Release\预调试助手.exe.config
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Release\预调试助手.exe
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Release\预调试助手.pdb
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Release\HZH_Controls.dll
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Release\O2S.Components.PDF4NET.Win.dll
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Release\OxyPlot.dll
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Release\OxyPlot.WindowsForms.dll
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Release\MaterialSkin.pdb
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Release\O2S.Components.PDF4NET.Win.xml
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Release\OxyPlot.xml
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\bin\Release\OxyPlot.WindowsForms.xml
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Release\预调试助手.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Release\Interop.MSScriptControl.dll
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Release\预调试助手.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Release\预调试助手.ClockControl.resources
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Release\预调试助手.winMain.resources
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Release\预调试助手.Form_Guide.resources
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Release\预调试助手.Properties.Resources.resources
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Release\预调试助手.textform.resources
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Release\预调试助手.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Release\预调试助手.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Release\预调试助手.csproj.CopyComplete
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Release\预调试助手.exe
+C:\Users\Administrator\Desktop\预调试助手 (2)\预调试助手\obj\Release\预调试助手.pdb

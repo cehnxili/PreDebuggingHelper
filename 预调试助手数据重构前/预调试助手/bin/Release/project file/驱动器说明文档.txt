@@ -1,0 +1,3 @@
+对于只有两个网口的控制器
+EtherNET\EtherCAT IN--EtherNET 连工控机/上位机
+EtherCAT OUT--EtherCAT连从站/驱动器
