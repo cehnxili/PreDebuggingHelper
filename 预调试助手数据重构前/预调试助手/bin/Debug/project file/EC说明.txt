@@ -1,0 +1,6 @@
+SPiiPlusEC为独立式EtherCAT主站控制器
+会有三个硬件网口
+J3-- ETHERNET连接工控机/上位机
+J1--Primary（A）连接从站/驱动器
+J2--SECONDARY 支持环网功能时，连接最后一个从站
+的 EtherCAT OUT
